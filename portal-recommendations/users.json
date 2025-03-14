@@ -1,42 +1,40 @@
 {
-  "users": {
     "123": {
-      "id": "123",
-      "name": "Mark",
-      "mugshot": "https://utelly.github.io/portal-recommendations/users/123.jpeg",
-      "profile": {
-        "genres": {
-          "7d": {
-            "rock": 0.3,
-            "pop": 0.5,
-            "jazz": 0.2
-          },
-          "30d": {
-            "rock": 0.4,
-            "pop": 0.4,
-            "jazz": 0.2
-          }
+        "id": "123",
+        "name": "Mark",
+        "mugshot": "https://utelly.github.io/portal-recommendations/users/123.jpeg",
+        "profile": {
+            "genres": {
+                "7d": {
+                    "rock": 0.3,
+                    "pop": 0.5,
+                    "jazz": 0.2
+                },
+                "30d": {
+                    "rock": 0.4,
+                    "pop": 0.4,
+                    "jazz": 0.2
+                }
+            }
         }
-      }
     },
     "456": {
-      "id": "456",
-      "name": "Jane",
-      "mugshot": "https://utelly.github.io/portal-recommendations/users/456.jpeg",
-      "profile": {
-        "genres": {
-          "7d": {
-            "rock": 0.2,
-            "pop": 0.6,
-            "jazz": 0.2
-          },
-          "30d": {
-            "rock": 0.3,
-            "pop": 0.5,
-            "jazz": 0.2
-          }
+        "id": "456",
+        "name": "Jane",
+        "mugshot": "https://utelly.github.io/portal-recommendations/users/456.jpeg",
+        "profile": {
+            "genres": {
+                "7d": {
+                    "rock": 0.2,
+                    "pop": 0.6,
+                    "jazz": 0.2
+                },
+                "30d": {
+                    "rock": 0.3,
+                    "pop": 0.5,
+                    "jazz": 0.2
+                }
+            }
         }
-      }
     }
-  }
 }
