@@ -1,1 +1,81 @@
-[]
+{
+  "activity_for": "user123",
+  "timeline": [
+    {
+      "2023-10-01T10:00:00Z": {
+        "hour_tag": 10,
+        "show.id": "1"
+      }
+    },
+    {
+      "2023-10-01T14:00:00Z": {
+        "hour_tag": 14,
+        "show.id": "2"
+      }
+    },
+    {
+      "2023-10-01T18:00:00Z": {
+        "hour_tag": 18,
+        "show.id": "3"
+      }
+    }
+  ],
+  "_embedded": {
+    "creative_works": [
+      {
+        "guid": "1",
+        "titles": [
+          {
+            "title": "Inception"
+          }
+        ],
+        "artworks": [
+          {
+            "url": "https://utellyassets9-1.imgix.net/api/Images/616cae28fb8722f60926560985587d16/Redirect"
+          }
+        ],
+        "descriptions": [
+          {
+            "description": "A mind-bending thriller by Christopher Nolan."
+          }
+        ]
+      },
+      {
+        "guid": "2",
+        "titles": [
+          {
+            "title": "The Matrix"
+          }
+        ],
+        "artworks": [
+          {
+            "url": "https://utellyassets9-1.imgix.net/api/Images/595aa6a6fa466e1f6d694c1f9469b866/Redirect"
+          }
+        ],
+        "descriptions": [
+          {
+            "description": "A sci-fi classic that questions reality."
+          }
+        ]
+      },
+      {
+        "guid": "3",
+        "titles": [
+          {
+            "title": "Tenet"
+          }
+        ],
+        "artworks": [
+          {
+            "url": "https://utellyassets4-8.imgix.net/assets/p17758177_p_v13_ac.jpg"
+          }
+        ],
+        "descriptions": [
+          {
+            "description": "A time-twisting espionage thriller."
+          }
+        ]
+      }
+    ]
+  }
+}
