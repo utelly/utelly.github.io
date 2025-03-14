@@ -2,7 +2,7 @@
   "sections": [
     {
       "title": "Top Picks for You",
-      "url": "https://proxy.cors.sh/https://utelly.github.io/portal-recommendations/collections/top-picks.json",
+      "url": "https://proxy.cors.sh/https://utelly.github.io/portal-recommendations/collections/top-picks",
       "_embedded": {
         "creative_works": [
           {
@@ -46,7 +46,7 @@
     },
     {
       "title": "Recently Added",
-      "url": "https://proxy.cors.sh/https://utelly.github.io/portal-recommendations/collections/recently-added.json",
+      "url": "https://proxy.cors.sh/https://utelly.github.io/portal-recommendations/collections/recently-added",
       "_embedded": {
         "creative_works": [
           {
