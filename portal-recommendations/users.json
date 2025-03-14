@@ -1,1 +1,15 @@
-{"users": [{"id": 123, "name": "Mark", "mugshot": "https://utelly.github.io/portal-recommendations/users/123.jpeg", "profile": {"genres": []}}]}
+{
+    "users": [
+        {
+            "id": 123,
+            "name": "Mark",
+            "mugshot": "https://utelly.github.io/portal-recommendations/users/123.jpeg",
+            "profile": {
+                "genres": {
+                    "7D": {"action": 0.4, "drama":0.6},
+                    "30d": {"sport": 0.1, "drama": 0.9}
+                }
+            }
+        }
+    ]
+}
