@@ -1,57 +1,51 @@
 {
-    "sections": [
+    "activity_for": "user123",
+    "timeline": [
         {
-            "title": "Top Picks for You",
-            "url": "https://proxy.cors.sh/https://utelly.github.io/portal-recommendations/collections/top-picks.json",
-            "_embedded": {
-                "creative_works": [
-                    {
-                        "_embedded": {
-                            "tags": [
+            "2023-10-03T10:00:00Z": {
+                "hour_tag": 10,
+                "show.id": "1"
+            }
+        },
+        {
+            "2023-10-04T14:00:00Z": {
+                "hour_tag": 14,
+                "show.id": "2"
+            }
+        },
+        {
+            "2023-10-05T18:00:00Z": {
+                "hour_tag": 55,
+                "show.id": "3"
+            }
+        }
+    ],
+    "_embedded": {
+        "creative_works": [
+            {
+                "_embedded": {
+                    "people": [
+                        {
+                            "guid": "00c2aa60bf65f967f96549d30b1c60ff5ba03763",
+                            "updated_at": "2025-02-25T16:05:24Z",
+                            "created_at": "2024-10-12T01:31:24Z",
+                            "deleted": false,
+                            "name": "Keanu Reeves",
+                            "artworks": [
                                 {
-                                    "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
-                                    "updated_at": "2021-03-11T01:23:30Z",
-                                    "created_at": "2021-03-06T05:29:07Z",
-                                    "type": "tag",
-                                    "names": [
-                                        {
-                                            "metadata": {
-                                                "type": "tag",
-                                                "source": "iva_iva",
-                                                "language": "en"
-                                            },
-                                            "name": "mehmet"
-                                        }
-                                    ],
-                                    "identifiers": [
-                                        {
-                                            "id": "mehmet",
-                                            "source": "iva_iva"
-                                        }
-                                    ]
+                                    "height": 900,
+                                    "width": 600,
+                                    "url": "https://utelly1.global.ssl.fastly.net/b461bd97694d046f45bec05e24392eba/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2FaatSWlkhBLSwLtJyrf0CxCgQn0i.jpg",
+                                    "metadata": {
+                                        "type": "profile_path",
+                                        "source": "iva_iva_tmdb_ctrb",
+                                        "language": "xx",
+                                        "country": "XX"
+                                    }
                                 }
                             ]
-                        },
-                        "guid": "1",
-                        "titles": [
-                            {
-                                "title": "Inception"
-                            }
-                        ],
-                        "artworks": [
-                            {
-                                "url": "https://utellyassets9-1.imgix.net/api/Images/616cae28fb8722f60926560985587d16/Redirect"
-                            }
-                        ],
-                        "descriptions": [
-                            {
-                                "description": "A mind-bending thriller by Christopher Nolan."
-                            }
-                        ]
-                    },
-                    {
-                        "guid": "2",
-                "_embedded": {
+                        }
+                    ],
                     "tags": [
                         {
                             "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
@@ -77,76 +71,155 @@
                         }
                     ]
                 },
-                        "titles": [
-                            {
-                                "title": "The Matrix"
-                            }
-                        ],
-                        "artworks": [
-                            {
-                                "url": "https://utellyassets9-1.imgix.net/api/Images/595aa6a6fa466e1f6d694c1f9469b866/Redirect"
-                            }
-                        ],
-                        "descriptions": [
-                            {
-                                "description": "A sci-fi classic that questions reality."
-                            }
-                        ]
+                "guid": "1",
+                "titles": [
+                    {
+                        "title": "Inception"
+                    }
+                ],
+                "artworks": [
+                    {
+                        "url": "https://utellyassets9-1.imgix.net/api/Images/616cae28fb8722f60926560985587d16/Redirect"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "description": "A mind-bending thriller by Christopher Nolan."
                     }
                 ]
-            }
-        },
-        {
-            "title": "Recently Added",
-            "url": "https://proxy.cors.sh/https://utelly.github.io/portal-recommendations/collections/recently-added.json",
-            "_embedded": {
-                "creative_works": [
-                    {
-                        "_embedded": {
-                            "tags": [
+            },
+            {
+                "guid": "2",
+                "_embedded": {
+                    "people": [
+                        {
+                            "guid": "00c2aa60bf65f967f96549d30b1c60ff5ba03763",
+                            "updated_at": "2025-02-25T16:05:24Z",
+                            "created_at": "2024-10-12T01:31:24Z",
+                            "deleted": false,
+                            "name": "Keanu Reeves",
+                            "artworks": [
                                 {
-                                    "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
-                                    "updated_at": "2021-03-11T01:23:30Z",
-                                    "created_at": "2021-03-06T05:29:07Z",
-                                    "type": "tag",
-                                    "names": [
-                                        {
-                                            "metadata": {
-                                                "type": "tag",
-                                                "source": "iva_iva",
-                                                "language": "en"
-                                            },
-                                            "name": "mehmet"
-                                        }
-                                    ],
-                                    "identifiers": [
-                                        {
-                                            "id": "mehmet",
-                                            "source": "iva_iva"
-                                        }
-                                    ]
+                                    "height": 900,
+                                    "width": 600,
+                                    "url": "https://utelly1.global.ssl.fastly.net/b461bd97694d046f45bec05e24392eba/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2FaatSWlkhBLSwLtJyrf0CxCgQn0i.jpg",
+                                    "metadata": {
+                                        "type": "profile_path",
+                                        "source": "iva_iva_tmdb_ctrb",
+                                        "language": "xx",
+                                        "country": "XX"
+                                    }
                                 }
                             ]
-                        },
-                        "guid": "3",
-                        "titles": [
-                            {
-                                "title": "Tenet"
-                            }
-                        ],
-                        "artworks": [
-                            {
-                                "url": "https://utellyassets4-8.imgix.net/assets/p17758177_p_v13_ac.jpg"
-                            }
-                        ],
-                        "descriptions": [
-                            {
-                                "description": "A time-twisting espionage thriller."
-                            }
-                        ]
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
+                            "updated_at": "2021-03-11T01:23:30Z",
+                            "created_at": "2021-03-06T05:29:07Z",
+                            "type": "tag",
+                            "names": [
+                                {
+                                    "metadata": {
+                                        "type": "tag",
+                                        "source": "iva_iva",
+                                        "language": "en"
+                                    },
+                                    "name": "mehmet"
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "id": "mehmet",
+                                    "source": "iva_iva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "titles": [
+                    {
+                        "title": "The Matrix"
+                    }
+                ],
+                "artworks": [
+                    {
+                        "url": "https://utellyassets9-1.imgix.net/api/Images/595aa6a6fa466e1f6d694c1f9469b866/Redirect"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "description": "A sci-fi classic that questions reality."
+                    }
+                ]
+            },
+            {
+                "guid": "3",
+                "_embedded": {
+                    "people": [
+                        {
+                            "guid": "00c2aa60bf65f967f96549d30b1c60ff5ba03763",
+                            "updated_at": "2025-02-25T16:05:24Z",
+                            "created_at": "2024-10-12T01:31:24Z",
+                            "deleted": false,
+                            "name": "Keanu Reeves",
+                            "artworks": [
+                                {
+                                    "height": 900,
+                                    "width": 600,
+                                    "url": "https://utelly1.global.ssl.fastly.net/b461bd97694d046f45bec05e24392eba/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2FaatSWlkhBLSwLtJyrf0CxCgQn0i.jpg",
+                                    "metadata": {
+                                        "type": "profile_path",
+                                        "source": "iva_iva_tmdb_ctrb",
+                                        "language": "xx",
+                                        "country": "XX"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
+                            "updated_at": "2021-03-11T01:23:30Z",
+                            "created_at": "2021-03-06T05:29:07Z",
+                            "type": "tag",
+                            "names": [
+                                {
+                                    "metadata": {
+                                        "type": "tag",
+                                        "source": "iva_iva",
+                                        "language": "en"
+                                    },
+                                    "name": "mehmet"
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "id": "mehmet",
+                                    "source": "iva_iva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "titles": [
+                    {
+                        "title": "Tenet"
+                    }
+                ],
+                "artworks": [
+                    {
+                        "url": "https://utellyassets4-8.imgix.net/assets/p17758177_p_v13_ac.jpg"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "description": "A time-twisting espionage thriller."
                     }
                 ]
             }
-        }
-    ]
+        ]
+    }
 }

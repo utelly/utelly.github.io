@@ -5,6 +5,28 @@
                 "creative_works": [
                     {
                         "_embedded": {
+                    "people": [
+                        {
+                            "guid": "00c2aa60bf65f967f96549d30b1c60ff5ba03763",
+                            "updated_at": "2025-02-25T16:05:24Z",
+                            "created_at": "2024-10-12T01:31:24Z",
+                            "deleted": false,
+                            "name": "Keanu Reeves",
+                            "artworks": [
+                                {
+                                    "height": 900,
+                                    "width": 600,
+                                    "url": "https://utelly1.global.ssl.fastly.net/b461bd97694d046f45bec05e24392eba/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2FaatSWlkhBLSwLtJyrf0CxCgQn0i.jpg",
+                                    "metadata": {
+                                        "type": "profile_path",
+                                        "source": "iva_iva_tmdb_ctrb",
+                                        "language": "xx",
+                                        "country": "XX"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
                             "tags": [
                                 {
                                     "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
@@ -50,6 +72,28 @@
                     {
                         "guid": "2",
                 "_embedded": {
+                    "people": [
+                        {
+                            "guid": "00c2aa60bf65f967f96549d30b1c60ff5ba03763",
+                            "updated_at": "2025-02-25T16:05:24Z",
+                            "created_at": "2024-10-12T01:31:24Z",
+                            "deleted": false,
+                            "name": "Keanu Reeves",
+                            "artworks": [
+                                {
+                                    "height": 900,
+                                    "width": 600,
+                                    "url": "https://utelly1.global.ssl.fastly.net/b461bd97694d046f45bec05e24392eba/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2FaatSWlkhBLSwLtJyrf0CxCgQn0i.jpg",
+                                    "metadata": {
+                                        "type": "profile_path",
+                                        "source": "iva_iva_tmdb_ctrb",
+                                        "language": "xx",
+                                        "country": "XX"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
                     "tags": [
                         {
                             "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
