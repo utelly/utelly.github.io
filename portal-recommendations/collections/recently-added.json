@@ -5,8 +5,9 @@
                 "creative_works": [
                     {
                         "_embedded": {
-                    "people": [
+                    "contributors": [
                         {
+                            "people": {
                             "guid": "00c2aa60bf65f967f96549d30b1c60ff5ba03763",
                             "updated_at": "2025-02-25T16:05:24Z",
                             "created_at": "2024-10-12T01:31:24Z",
@@ -25,6 +26,7 @@
                                     }
                                 }
                             ]
+                            }
                         }
                     ],
                             "tags": [
