@@ -51,6 +51,32 @@
                     },
                     {
                         "guid": "2",
+                "_embedded": {
+                    "tags": [
+                        {
+                            "guid": "bf2074e46afb12edf219a18dc8b449263875bb35",
+                            "updated_at": "2021-03-11T01:23:30Z",
+                            "created_at": "2021-03-06T05:29:07Z",
+                            "type": "tag",
+                            "names": [
+                                {
+                                    "metadata": {
+                                        "type": "tag",
+                                        "source": "iva_iva",
+                                        "language": "en"
+                                    },
+                                    "name": "mehmet"
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "id": "mehmet",
+                                    "source": "iva_iva"
+                                }
+                            ]
+                        }
+                    ]
+                },
                         "titles": [
                             {
                                 "title": "The Matrix"
